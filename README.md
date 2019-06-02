@@ -4,10 +4,10 @@ See the included Python script which visualizes the weather of 545 cities across
 
 Included are the following scatter plots:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+Temperature (F) vs. Latitude,
+Humidity (%) vs. Latitude,
+Cloudiness (%) vs. Latitude,
+Wind Speed (mph) vs. Latitude,
 
 Observed Weather Trends:
 
